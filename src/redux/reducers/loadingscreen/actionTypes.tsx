@@ -1,0 +1,2 @@
+export const SHOW_LOADING_SCREEN: string = 'SHOW_LOADING_SCREEN';
+export const HIDE_LOADING_SCREEN: string = 'HIDE_LOADING_SCREEN';

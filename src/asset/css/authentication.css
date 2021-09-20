@@ -1,0 +1,63 @@
+.background {
+  background: url(../images/bg-auth.png);
+  background-size: cover;
+  height: 100vh;
+}
+
+.login {
+  text-align: -webkit-center;
+  padding: 100px 170px 0px 55%;
+  display: block !important;
+}
+
+.avatar {
+  width: 130px;
+}
+
+.margin {
+  width: 100%;
+  padding: 10px !important;
+}
+
+.textField {
+  width: 100%;
+  padding: 15px;
+}
+
+.focused {
+  color: #38d39f !important;
+}
+
+.underline:after {
+  border-bottom: 2px solid #38d39f !important;
+}
+
+.login-submit {
+  padding: 8px !important;
+  color: white !important;
+  margin: 10px !important;
+  border-radius: 20px !important;
+  width: 100%;
+  background-color: #2bc58f !important;
+  font-size: medium !important;
+  font-weight: 600 !important;
+}
+
+.login-submit:hover {
+  background-color: #25a176 !important;
+}
+
+.link-forgot {
+  color: gray;
+  text-decoration: none;
+  float: right;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.warning {
+  color: #c92427;
+  position: absolute;
+  bottom: -10px;
+  left: 8px;
+}
